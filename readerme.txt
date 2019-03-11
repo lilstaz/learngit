@@ -5,3 +5,5 @@ add cat
 add dog
 
 add suger
+add salt
+次世代次世代从
